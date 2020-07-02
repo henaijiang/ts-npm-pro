@@ -3,9 +3,13 @@
   "version": "1.0.11",
   "description": "random way",
   "main": "dist/index.js",
-  "types": "dist/index.d.ts",
+  "types": "dist/types/index.d.ts",
   "scripts": {
     "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henaijiang/ts-npm-pro.git"
   },
   "keywords": [
     "test"
